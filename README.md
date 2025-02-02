@@ -14,3 +14,7 @@ Data Integration: Fetches quiz data via API with error handling
 State Management: Uses JavaScript to manage quiz flow and user interactions
 
 Note:The provided API (https://api.jsonserve.com/Uw5CrX) was not returning quiz questions as expected. To ensure smooth functionality and meet the project requirements, I integrated an alternative external API source for fetching quiz data. Please let me know if there are any specific API preferences or adjustments needed.
+
+
+
+
